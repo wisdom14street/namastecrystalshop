@@ -10,5 +10,6 @@
  "icon": "gem",
  "theme": {"ink": "#1d1840", "paper": "#f7f6fc", "accent": "#7b5cff",
            "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Inter:wght@400;600;700&display=swap"},
- "include_no_photo": false
+ "include_no_photo": false,
+ "GA_MEASUREMENT_ID": "G-Y7R5K9NMW0"
 }
