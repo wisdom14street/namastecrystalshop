@@ -1,0 +1,8 @@
+:root{--ink:#1d1840;--onink:#ffffff;--paper:#f7f6fc;--card:#ffffff;--soft:#ece8ff;--muted:#5d5878;--line:#e2def2;--accent:#7b5cff;--onaccent:#ffffff;--accentdark:#5338d6;--focus:#ffcf6b;
+--display:"Fraunces",Georgia,serif;--body:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;--r:12px;--btnr:10px}
+.hero{background:linear-gradient(135deg,#1d1840 0%,#3a2a8c 55%,#1b6f8c 100%);}
+.stonefacts{display:grid;gap:.4rem;background:var(--soft);border-radius:var(--r);padding:1rem 1.1rem;margin:1rem 0}
+.stonefacts p{margin:0}
+.az{display:flex;flex-wrap:wrap;gap:.35rem;margin:1rem 0}.az a{display:inline-block;min-width:2.2rem;text-align:center;padding:.35rem .5rem;border:1px solid var(--line);border-radius:8px;text-decoration:none}
+ul.dir{list-style:none;padding:0}ul.dir li{padding:.45rem 0;border-bottom:1px solid var(--line)}
+.tablewrap{overflow-x:auto}table.hard{border-collapse:collapse;width:100%;font-size:.95rem}table.hard th,table.hard td{text-align:left;padding:.5rem;border-bottom:1px solid var(--line);vertical-align:top}

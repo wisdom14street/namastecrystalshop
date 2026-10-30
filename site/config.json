@@ -1,0 +1,14 @@
+{
+ "brand": "Namaste Crystal Shop",
+ "short_name": "Crystal Shop",
+ "site_url": "https://namastecrystalshop.com",
+ "storefront": "Namaste Crystal Shop",
+ "REVIEW_URL": "",
+ "GOOGLE_SITE_VERIFICATION": "",
+ "bestseller_collections": ["crystals"],
+ "siblings": [],
+ "icon": "gem",
+ "theme": {"ink": "#1d1840", "paper": "#f7f6fc", "accent": "#7b5cff",
+           "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Inter:wght@400;600;700&display=swap"},
+ "include_no_photo": false
+}
